@@ -1,0 +1,6 @@
+counter;index = numbers;index >= -25;console.log
+25;25;true;-
+25,23;25;true;-
+25,23,21;25;true;-
+25,23,21,19;25;true;-
+25,23,21,19,17;25;true;-

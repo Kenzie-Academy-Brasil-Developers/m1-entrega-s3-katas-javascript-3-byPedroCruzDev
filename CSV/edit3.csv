@@ -1,0 +1,6 @@
+count;" index>= numbers";numbers;console.log
+-1;true;-25;-
+-1,-2;true;-25;-
+-1,-2,-3;true;-25;-
+-1,-2,-3,-4;true;-25;-
+-1,-2,-3,-4,-5;true;-25;-
